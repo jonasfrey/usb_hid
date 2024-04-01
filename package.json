@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "usb": "^2.12.1",
+    "uuid": "^9.0.1",
+    "ws": "^8.16.0"
+  }
+}

@@ -13,8 +13,10 @@ import {
 
 //md: ## import stuff
 
-import { f_update_o_input_device } from "./functions.module.js";
-import { a_o_input_device } from "./runtimedata.module.js";
+import { 
+    f_update_o_input_device,
+    a_o_input_device
+ } from "./mod.js";
 
 //./readme.md:end
 

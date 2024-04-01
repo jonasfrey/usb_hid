@@ -1,10 +1,12 @@
-<!-- {"s_msg":"this file was automatically generated","s_by":"f_generate_markdown.module.js","s_ts_created":"Mon Apr 01 2024 02:02:34 GMT+0200 (Central European Summer Time)","n_ts_created":1711929754243} -->
+<!-- {"s_msg":"this file was automatically generated","s_by":"f_generate_markdown.module.js","s_ts_created":"Mon Apr 01 2024 02:07:49 GMT+0200 (Central European Summer Time)","n_ts_created":1711930069260} -->
 ![./logo.webp](./logo.webp)
 # usb hid
 ## import stuff
 ```javascript
-import { f_update_o_input_device } from "./functions.module.js";
-import { a_o_input_device } from "./runtimedata.module.js";
+import { 
+    f_update_o_input_device,
+    a_o_input_device
+ } from "./mod.js";
 
 ```
 ## get a device
